@@ -1,5 +1,5 @@
 
-<h1>Lucas Martins - Quality Assurance | Testes de Software </h1> 
+<h1 align="center">Lucas Martins - Quality Assurance | Testes de Software </h1> 
 
 sou formado em Análise e Desenvolvimento de Sistemas e estudo ativamente testes de software. Busco oportunidades na área de QA para aplicar meus conhecimentos em automação de testes, metodologias ágeis e garantia de qualidade.
 
@@ -68,18 +68,16 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
 
 </table>
 
- 
-
-
-
 #
 <div>
 <a href="https://github.com/Zekkee1">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zekkee1&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Zekkee1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
   
+## Contato:
 
-<a href="[https://exemplo.com](https://www.linkedin.com/in/lucas-martins763/)"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=40px ></a></div>
+<a href="[https://exemplo.com](https://www.linkedin.com/in/lucas-martins763/)"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=40px ></a>
           
   
           
