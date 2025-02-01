@@ -77,7 +77,7 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
   
 ## Contato:
 
-<a href="https://exemplo.com](https://www.linkedin.com/in/lucas-martins763/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=40px ></a>
+<a href="https://www.linkedin.com/in/lucas-martins763/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=40px ></a>
           
   
           
