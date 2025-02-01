@@ -21,6 +21,8 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" width=60px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width=60px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=60px/>
+  
+    
           
 </div>
 
@@ -79,7 +81,9 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
   
 ## Contato:
 
-<a href="https://www.linkedin.com/in/lucas-martins763/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=40px ></a>
+<a href="https://www.linkedin.com/in/lucas-martins763/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=60px ></a>
+<a href="https://api.whatsapp.com/send?phone=11987642170"> <img src="https://portais.univasf.edu.br/programadegestao/imagens/icon-whatsapp.png/@@images/image.png" width=60px ></a>
+
           
   
           
