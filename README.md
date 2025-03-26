@@ -58,6 +58,10 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
     <tr>
       <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/sauce_demo"> Swag labs</a></td>
     </tr>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Zekkee1/TOOLSHOP"> TOOLSHOP</a></td>
+    </tr>
     
     
   
