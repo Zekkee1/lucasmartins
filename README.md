@@ -48,6 +48,7 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
     <td>Selenium</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Zekkee1/TOOLSHOP"> TOOLSHOP</a></td>
     <td><a href="https://github.com/Zekkee1/Testes-automatizados/tree/main/Selenium/com.swaglabs"> Swag labs</a></td>
   </tr>
     <tr>
@@ -58,12 +59,6 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
       <td><a href="https://github.com/Zekkee1/SauceDemo"> Swag labs</a></td>
     </tr>
     </tr>
-    <tr>
-      <td><a href="https://github.com/Zekkee1/TOOLSHOP"> TOOLSHOP</a></td>
-    </tr>
-    
-    
-  
   
 </table>
 
