@@ -52,7 +52,7 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
     <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Selenium/com.swaglabs"> Swag labs</a></td>
   </tr>
     <tr>
-      <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/buger_eats"> buger eats</a></td>
+      <td><a href="https://github.com/Zekkee1/Automacao-Cypress----Burger_Eats#"> buger eats</a></td>
       <td><a href="https://github.com/Zekkee1/Automacao-Selenium----YourLogo"> YourLogo</a></td> 
     </tr>
     <tr>
