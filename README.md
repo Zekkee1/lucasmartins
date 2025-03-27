@@ -48,7 +48,7 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
     <td>Selenium</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/automation_practice"> YourLogo</a></td>
+    <td><a href="https://github.com/Zekkee1/Testes-automatizados/tree/main/Cypress/automation_practice"> YourLogo</a></td>
     <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Selenium/com.swaglabs"> Swag labs</a></td>
   </tr>
     <tr>
@@ -56,7 +56,7 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
       <td><a href="https://github.com/Zekkee1/Automacao-Selenium----YourLogo"> YourLogo</a></td> 
     </tr>
     <tr>
-      <td><a href="https://github.com/Zekkee1/_projetos_/tree/main/Cypress/sauce_demo"> Swag labs</a></td>
+      <td><a href="https://github.com/Zekkee1/Testes-automatizados/tree/main/Cypress/sauce_demo"> Swag labs</a></td>
     </tr>
     </tr>
     <tr>
