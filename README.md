@@ -1,9 +1,9 @@
 
 <h1 align="center">Lucas Menezes - Quality Assurance | Desenvolvedor | Testes de Software </h1> 
 
-sou formado em Análise e Desenvolvimento de Sistemas e estudo ativamente testes de software. Busco oportunidades na área de QA para aplicar meus conhecimentos em automação de testes, metodologias ágeis e garantia de qualidade.
+sou formado em Análise e Desenvolvimento de Sistemas e estudo ativamente testes de software. Atualmente buscando uma oportunidade como Desenvolvedor de software ou Analista de testes de software.
 
-No meu GitHub, você encontrará projetos que refletem meu aprendizado e experiência com ferramentas como Cypress, Selenium, BDD, Gherkin, etc... Gosto de explorar novas tecnologias e aprimorar minhas habilidades para garantir a qualidade e confiabilidade de aplicações.
+No meu GitHub, você encontrará projetos que refletem meu aprendizado e experiência com ferramentas como Cypress, Selenium, BDD, Gherkin, python... Gosto de explorar novas tecnologias e aprimorar minhas habilidades para garantir a qualidade e confiabilidade de aplicações.
 
 Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde crio e executo casos de testes manuais.
 
