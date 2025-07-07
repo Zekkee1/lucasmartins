@@ -21,6 +21,7 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" width=60px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width=60px/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=60px/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" width=60px/>
   
     
           
