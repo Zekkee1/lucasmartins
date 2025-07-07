@@ -38,6 +38,8 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
   Controle de versão Git  <br> 
   Programação orientada a objetos com Python <br>
   Gerenciamento de banco de dados SQL
+  Gestão de projetos com Jira
+  Gerenciamento de testes com Xray
 
 ## Meus projetos:
 
