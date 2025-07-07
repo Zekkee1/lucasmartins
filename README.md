@@ -77,7 +77,7 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
 <div>
 <a href="https://github.com/Zekkee1">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zekkee1&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Zekkee1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
   </div>
   
 ## Contato:
