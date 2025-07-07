@@ -1,5 +1,5 @@
 
-<h1 align="center">Lucas Martins - Quality Assurance | Desenvolvedor | Testes de Software </h1> 
+<h1 align="center">Lucas Menezes - Quality Assurance | Desenvolvedor | Testes de Software </h1> 
 
 sou formado em Análise e Desenvolvimento de Sistemas e estudo ativamente testes de software. Busco oportunidades na área de QA para aplicar meus conhecimentos em automação de testes, metodologias ágeis e garantia de qualidade.
 
