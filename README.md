@@ -44,7 +44,7 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
 
 ## Meus projetos:
 
-### automação de testes utilizando Cypress e Selenium:
+### Automação de testes utilizando Cypress e Selenium:
 <table>
   <tr>
     <td>Cypress</td>
@@ -65,7 +65,7 @@ Atualmente participo de projetos freelancers na <strong>CrowdTest</strong> onde 
   
 </table>
 
-### Python(POO) e SQL 
+### Gerenciador de estoque em Python(POO) 
 <table>
   <tr>
     <td><a href="https://github.com/Zekkee1/Sistema-de-Gerenciamento-de-Estoque---Python">Gerenciamento de Estoque </a></td>
